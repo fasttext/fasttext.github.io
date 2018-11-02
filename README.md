@@ -1,6 +1,6 @@
 # github.com/fasttext
 
-<img src="https://avatars0.githubusercontent.com/u/44705534?s=50&v=4" align="left"/>
+<img src="https://avatars0.githubusercontent.com/u/44705534?s=100&v=4" align="left"/>
 
 <sub><sup>Edit this page at [github.com/fasttext/fasttext.github.io](https://github.com/fasttext/fasttext.github.io/).</sup></sub>
 
