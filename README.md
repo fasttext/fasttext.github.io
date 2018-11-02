@@ -8,3 +8,13 @@ Read the official fastText documentation at [fasttext.cc](https://fasttext.cc/)
 
 </details>
 
+<img src="https://avatars0.githubusercontent.com/u/44705534?s=200&v=4" align="left"/>
+
+### fasttext/js
+
+### fasttext/serve
+
+### ...
+
+### ...
+
