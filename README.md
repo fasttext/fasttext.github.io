@@ -1,4 +1,4 @@
-# github.com/fasttext
+### github.com/fasttext
 
 <img src="/favicon.ico" align="left"/>
 
@@ -14,13 +14,13 @@ Read the official fastText documentation at [fasttext.cc](https://fasttext.cc/)
 
 </details>
 
-### fasttext/js
+## fasttext/js
 
-### fasttext/serve
+## fasttext/serve
 
-### ...
+## ...
 
-### ...
+## ...
 
 
 
