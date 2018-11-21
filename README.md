@@ -14,6 +14,9 @@ Read the official fastText documentation at [fasttext.cc](https://fasttext.cc/)
 
 </details>
 
+## [fasttext/build](https://github.com/fasttext/build)
+Pre-built fastText binaries
+
 ## fasttext/js
 
 ## fasttext/serve
